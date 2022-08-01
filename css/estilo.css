@@ -1,0 +1,18 @@
+a{
+    font-family: sans-serif;
+    font-size: 65px;
+    font-style: oblique;
+    color:rgba(32, 32, 163, 0.5);
+    background-repeat: no-repeat; 
+    background-color:powderblue;
+}
+h2{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100px;
+}
+p{
+    font-size: 25px;
+    font-family: sans-serif;
+    
+}
